@@ -1,0 +1,39 @@
+body{
+    background-color: #D5E1EF;
+}
+
+div{
+    width: 320px;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 16px;
+    margin: 190px auto;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 14px;
+}
+
+
+h1{
+    color:  #1F314F;
+    text-align: center;
+    font-size:  22px;
+    font-family: 'Outfit';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 28px;
+    padding: 0px 16px;
+}
+
+p{
+    color:  #7D889E;
+    text-align: center;
+    font-size:  15px;
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 19px;
+    padding: 0px 32px 16px 32px; 
+}
